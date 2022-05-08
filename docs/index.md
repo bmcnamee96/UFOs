@@ -1,4 +1,3 @@
-'''html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -92,4 +91,3 @@
     <script src="static/js/app.js"></script>
 </body>
 </html>
-'''
