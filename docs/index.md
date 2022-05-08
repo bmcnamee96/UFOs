@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+'''html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -94,4 +93,4 @@
     <script src="static/js/app.js"></script>
 </body>
 </html>
-
+'''
